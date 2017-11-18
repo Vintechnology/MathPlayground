@@ -7,13 +7,19 @@ Choose a algebraic equation and let it draw the graph.
 ![image](https://user-images.githubusercontent.com/23548268/32981938-8f6f9d4a-ccae-11e7-9b1a-39aa9acd8ca8.png)
 
 # Notice
-Some mathematical operations have been change:
+Some supported mathematical operations have been change:
 
 |Operation | Replace |
 | --- | --- |
+| plus | + |
+| minus | - |
 | multiplication | * |
 | division | / |
 | exponentiation | ^ |
+
+support grouping by "(" and ")". Example: (a+b)^c
+
+
 
 # Download
 ### v0.1
