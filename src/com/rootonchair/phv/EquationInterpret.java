@@ -22,7 +22,7 @@ public class EquationInterpret {
 		map.put(keyBind, newValue);
 	}
 	private void replaceVariable(){
-		src=orgSrc.replace(keyBind, String.valueOf(map.get(keyBind)));
+		src=orgSrc.replace(keyBind, "("+String.valueOf(map.get(keyBind)+")"));
 	}
 	private void nextChar(){
 		ch=(++pos<src.length()?src.charAt(pos):-1);
