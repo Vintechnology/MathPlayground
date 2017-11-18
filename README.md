@@ -17,7 +17,7 @@ Some supported mathematical operations have been change:
 | division | / |
 | exponentiation | ^ |
 
-support grouping by "(" and ")". Example: (a+b)^c
+Support grouping by "(" and ")". Example: (a+b)^c
 
 
 
